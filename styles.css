@@ -12,7 +12,9 @@
     background-size: cover;
     position: relative;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 nav{
     display: flex;
     padding: 2% 6%;
